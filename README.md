@@ -3,8 +3,10 @@ A  a modern professional networking platform inspired by LinkedIn, designed for 
 features, and an engaging user experience
 Link : https://friendgrid.onrender.com/
 "It may take a few extra seconds to load as it is deployed on a free plan on Render."
-![Alt text](./Friendgrid1.png)
-
+- ![Image 1](./Friendgrid1.png)
+- ![Image 2](./Friendgrid2.png)
+- ![Image 3](./Friendgrid3.png)
+  
 ## Tech Stack
 
 - **Frontend:** React.js,DesiUi, Tailwind CSS, Axios 
